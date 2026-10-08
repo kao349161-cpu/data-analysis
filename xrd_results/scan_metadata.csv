@@ -1,0 +1,4 @@
+file,incidence_deg,n_points,start_deg,stop_deg,step_deg,scan_speed_deg_min,target,lambda_Ka1_A,lambda_Ka2_A,voltage_kV,current_mA,TXT_RASX_ratio,max_export_intensity,unit_note
+1_001,0.2,4001,10.0,90.0,0.02,15,Cu,1.540593,1.544414,40,40,12.5,202.0967,TXT likely counts/s; RASX metadata says counts; retain native columns
+1_002,0.5,4001,10.0,90.0,0.02,15,Cu,1.540593,1.544414,40,40,12.5,303.1451,TXT likely counts/s; RASX metadata says counts; retain native columns
+1_003,1.0,4001,10.0,90.0,0.02,15,Cu,1.540593,1.544414,40,40,12.5,479.9798,TXT likely counts/s; RASX metadata says counts; retain native columns
